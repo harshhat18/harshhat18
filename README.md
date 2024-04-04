@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshhat18
 - 👀 I’m interested in exploring and learning new things
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any projects relsted to programming
 - 📫you can reach me through email - harshhat18@gmail.com
   
